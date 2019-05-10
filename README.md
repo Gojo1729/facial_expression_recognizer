@@ -22,6 +22,8 @@ Corresponding links
 **1)[Face detection](https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)**
 <br/>
 **2)[Webcamera video streamin](https://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/)**
+<br/>
+**3)If the export.pkl file didn't work properly use this link to download it [export.pkl](https://drive.google.com/open?id=1zk6upawNdOq4u_kh8WXk9_UwPCXaXfbT)**
 
 
 
